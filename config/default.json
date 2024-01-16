@@ -1,0 +1,6 @@
+{
+    "jwtSecretKey": "secretForComfortPieIsAwesome", 
+    "mongoDbConnectionString": "<mongodb_connection_string>",
+    "mqttUsername": "<username>",
+    "mqttPassword": "<password>"
+}
